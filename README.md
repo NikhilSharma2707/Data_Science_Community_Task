@@ -2,6 +2,7 @@ Student Performance Analysis with Linear Regression
 This repository contains a Python project for analyzing and predicting student performance in various subjects (Physics, Math, and Chemistry) using Linear Regression. It explores data visualization, data preprocessing, and machine learning modeling.
 
 Overview
+
 Data Exploration: We start by loading a dataset containing student information and their performance metrics. We examine the data's shape, missing values, and duplicate entries.
 
 Data Visualization: We visualize the distribution of scores in Math, Physics, and Chemistry using histograms. Additionally, we create a correlation matrix heatmap to explore relationships between variables.
